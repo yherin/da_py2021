@@ -155,7 +155,7 @@ coverage.txt
 
 #test
 **/test
-
+**/tmc
 #conda
 *~
 *.pyc
